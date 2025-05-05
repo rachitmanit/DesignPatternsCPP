@@ -1,6 +1,5 @@
-#pragma once
-
-#include "PersonBuilder.hpp"
+#include <string>
+#include "PersonBuilder.cpp"
 using namespace std;
 
 class PersonJobBuilder: public PersonBuilderBase {

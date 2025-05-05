@@ -1,8 +1,7 @@
 #include <iostream>
-#include "Person.cpp"
-#include "PersonBuilder.hpp"
-#include "PersonJobBuilder.hpp"
-#include "PersonAddressBuilder.hpp"
+
+#include "PersonJobBuilder.cpp"
+#include "PersonAddressBuilder.cpp"
 
 using namespace std;
 
