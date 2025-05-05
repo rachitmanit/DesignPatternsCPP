@@ -1,8 +1,8 @@
 #pragma once
 
-#include "Person.hpp"
 using namespace std;
 
+class Person;
 class PersonAddressBuilder;
 class PersonJobBuilder;
 
